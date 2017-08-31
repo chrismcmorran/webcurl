@@ -1,0 +1,12 @@
+{
+  "name": "webcurl",
+  "version": "1.0.0",
+  "description": "A synchronous tool for fetching data on the interweb.",
+  "main": "webcurl.js",
+  "author": "Christopher McMorran",
+  "license": "MIT",
+  "dependencies": {
+    "then-request": "^4.1.0"
+  },
+  "bin" : "webcurl.js"
+}
